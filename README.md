@@ -1,7 +1,5 @@
 # TLS Brief Introduction
 
----
-
 ## SSL or TLS
 
 When the SSL protocol was standardized by the IETF, it was renamed to Transport Layer Security ( TLS ). Many use the TLS and SSL names interchangeably, but technically, they are different, since each describes a different version of the protocol.
